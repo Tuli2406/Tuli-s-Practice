@@ -1,0 +1,3 @@
+--2024-12-09 15:31:03--  https://download.zed.dev/linux/latest/zed.AppImage
+Resolving download.zed.dev (download.zed.dev)... failed: Name or service not known.
+wget: unable to resolve host address ‘download.zed.dev’

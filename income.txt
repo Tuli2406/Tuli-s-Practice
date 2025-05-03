@@ -1,0 +1,11 @@
+Tuli:100000
+Parvez:200000
+Moho:700
+Fatema:80000
+Habib:90000
+Alvi:900
+Ani:600
+Toma:100000
+Tiya:30000
+Era:5000
+

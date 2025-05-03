@@ -1,0 +1,10 @@
+Tuli:100000
+Parvez:100000
+toma:500000
+tiya:500
+moho:9000
+era:30000
+alvi:100000
+tom:200
+ritul:80000
+aura:4000
