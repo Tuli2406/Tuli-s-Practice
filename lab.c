@@ -8,7 +8,7 @@ int count;
 
 while(1){
 
-printf("Enter a number(0 to quit)");
+printf("Enter a number(0 to quit):");
 scanf("%d",&n);
 
   if(n==0){
@@ -17,7 +17,7 @@ scanf("%d",&n);
 
   i=(int)sqrt(n);
 
-  for(i>=0;i--){
+  for(;i>=0;i--){
   if(n%i==0){
   count++;}
 
@@ -35,4 +35,4 @@ else{
 
 
 
-}
+

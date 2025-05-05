@@ -1,0 +1,31 @@
+#FLAGS AND VARIABLE
+
+CC = g++
+C = gcc
+
+#SOURCES AND OUTPUT
+SRC1 = numManipulation.cpp
+OUT1 = manipul
+SRC2 = calculator2.c
+OUT2 = cal
+
+#RECIPE
+$(OUT1):$(SRC1)
+	$(CC)  $(SRC1) -o $(OUT1)
+
+$(OUT2):$(SRC2)
+	$(C) $(SRC2) -o $(OUT2)
+
+
+#RUN
+run1:$(OUT1)
+	./$(OUT1)
+
+run2:$(OUT2)
+	./(OUT2)
+
+
+#CLEAN BUILT FILES
+clean:
+	rm -f $(OUT1)
+	rm -f $(OUT2)
